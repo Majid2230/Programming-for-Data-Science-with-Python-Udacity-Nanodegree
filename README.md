@@ -14,5 +14,11 @@ Softwares needed:
 Python 3, NumPy, and Pandas
 A text editor
 
+installation links for softwares:
+Git for windows - for terminal application using Git Bash](https://gitforwindows.org/)
+Python using Anaconda (latest version for windows)](https://www.anaconda.com/distribution/)
+*isual Studio Code Editor (for windows)](https://code.visualstudio.com/docs/setup/windows)
+
 Credits
 The original repo this one is forked from can be found here: https://github.com/udacity/pdsnd_github.git
+This project is a task of the Udacity Nanodegree "Programming for Data Science".
